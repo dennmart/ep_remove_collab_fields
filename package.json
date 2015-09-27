@@ -1,0 +1,12 @@
+{
+  "name": "ep_remove_collab_fields",
+  "version": "0.0.1",
+  "description": "Etherpad plugin to remove collaborator text fields, to prevent name changes",
+  "author": "Dennis Martinez <dennis@dennmart.com>",
+  "contributors": [],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/dennmart/ep_remove_collab_fields.git"
+  }
+}

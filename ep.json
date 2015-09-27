@@ -1,0 +1,11 @@
+{
+  "parts":[
+    {
+      "name": "removeCollabTextFields",
+      "hooks": {},
+      "client_hooks": {
+        "postAceInit": "ep_remove_collab_fields/static/js/removeCollabFields:postAceInit"
+      }
+    }
+  ]
+}
